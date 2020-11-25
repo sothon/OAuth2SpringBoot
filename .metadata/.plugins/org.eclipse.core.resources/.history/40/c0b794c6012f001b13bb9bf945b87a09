@@ -1,0 +1,10 @@
+
+spring.security.oauth2.client.registration.google.client-id =981094505446-udbabjfbrfajb01e5ahn2hese685c77c.apps.googleusercontent.com 
+spring.security.oauth2.client.registration.google.client-secret =bVnm1zDuSduffmz4M5CnvVuE
+
+
+#spring.security.oauth2.client.registration.facebook.client-id = 
+#spring.security.oauth2.client.registration.facebook.client-secret = 
+
+#spring.security.oauth2.client.registration.github.client-id = 
+#spring.security.oauth2.client.registration.github.client-secret = 

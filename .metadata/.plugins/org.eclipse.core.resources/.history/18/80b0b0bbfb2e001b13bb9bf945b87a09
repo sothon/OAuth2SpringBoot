@@ -1,0 +1,5 @@
+package com.appsdeveloperblog.clients.sociallogin.SocialLoginWebClient.controllers;
+
+public class HomePageController {
+
+}

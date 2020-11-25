@@ -1,0 +1,5 @@
+package com.appsdeveloperblog.ws.clients.controllers;
+
+public class AlbumsController {
+
+}

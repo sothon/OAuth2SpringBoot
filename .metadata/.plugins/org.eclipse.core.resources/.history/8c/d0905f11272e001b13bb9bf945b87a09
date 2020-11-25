@@ -1,0 +1,5 @@
+package com.appsdeveloperblog.api.ResourceServer.response;
+
+public class UserRest {
+
+}

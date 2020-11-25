@@ -1,0 +1,5 @@
+package com.appsdeveloperblog.api.photos.response;
+
+public class PhotoRest {
+
+}

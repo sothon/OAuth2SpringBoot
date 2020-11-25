@@ -1,0 +1,5 @@
+package com.appsdeveloperblog.api.albums.response;
+
+public class AlbumRest {
+
+}

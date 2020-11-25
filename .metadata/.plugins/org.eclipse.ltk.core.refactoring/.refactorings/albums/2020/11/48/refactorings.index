@@ -1,0 +1,12 @@
+1606208069274	Delete element
+1606208085707	Rename package 'com.appsdeveloperblog.api.ResourceServer'
+1606208098569	Rename package 'com.appsdeveloperblog.api.ResourceServer.controller'
+1606208109304	Rename package 'com.appsdeveloperblog.api.ResourceServer.response'
+1606208121160	Rename package 'com.appsdeveloperblog.api.ResourceServer.security'
+1606209343908	Rename type 'UsersController'
+1606209426354	Delete element
+1606271394264	Rename type 'ResourceServerApplication'
+1606271408814	Rename type 'WebSecurity'
+1606271567890	Rename type 'AlbumApplication'
+1606278048451	Copy compilation unit
+1606279287246	Copy compilation unit
