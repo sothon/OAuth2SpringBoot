@@ -1,5 +1,0 @@
-package com.appsdeveloperblog.ws.api.ResourceServer.security;
-
-public class WebSecurity {
-
-}

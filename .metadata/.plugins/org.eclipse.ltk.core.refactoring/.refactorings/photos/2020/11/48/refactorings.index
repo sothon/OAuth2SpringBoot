@@ -1,8 +1,0 @@
-1606207840927	Rename package 'com.appsdeveloperblog.api.ResourceServer'
-1606207860252	Rename package 'com.appsdeveloperblog.api.ResourceServer.controller'
-1606207876198	Rename package 'com.appsdeveloperblog.api.ResourceServer.response'
-1606207891987	Rename package 'com.appsdeveloperblog.api.ResourceServer.security'
-1606208177074	Rename type 'UsersController'
-1606208257707	Delete element
-1606271191612	Rename type 'WebSecurity'
-1606271324772	Rename type 'ResourceServerApplication'
