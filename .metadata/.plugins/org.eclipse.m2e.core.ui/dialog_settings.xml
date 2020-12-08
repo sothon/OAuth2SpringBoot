@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\Programming\Udemy\sts\OAuth2SpringBoot\workspace\OAuth2SpringBoot"/>
 			<item value="E:\Sothon\Programming\OAuth2SpringBoot\workspace\PKCE-main"/>
 			<item value="E:\Sothon\Programming\OAuth2SpringBoot\workspace\ResourceServer"/>
 		</list>

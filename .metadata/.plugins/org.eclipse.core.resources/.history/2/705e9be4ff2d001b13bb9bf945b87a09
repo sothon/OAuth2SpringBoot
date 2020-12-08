@@ -1,5 +1,0 @@
-package com.appsdeveloperblog.api.ResourceServer.controller;
-
-public class TokenController {
-
-}

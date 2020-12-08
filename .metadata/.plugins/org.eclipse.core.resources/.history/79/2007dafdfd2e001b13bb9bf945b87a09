@@ -1,3 +1,0 @@
-
-spring.security.oauth2.client.registration.google.client-id = photo-app-webclient
-spring.security.oauth2.client.registration.google.client-secret = 6f995f29-9c56-4b25-820e-affe9e0c9771
